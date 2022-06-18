@@ -3,7 +3,9 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/english_word_test?serverTimezone=Asia/Seoul&characterEncoding=UTF-8
     username: root
-    password: chldnjsdyd1@
+#    password: chldnjsdyd1@
+    password: nswon0729@
+
 #  security:
 #    jwt:
 #      header: Authorization
